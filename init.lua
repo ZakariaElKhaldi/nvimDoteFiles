@@ -1,2 +1,3 @@
 require("config.lazy")
-require("config.settings")
+require("config.options")
+require("config.transparent")
